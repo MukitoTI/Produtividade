@@ -107,8 +107,8 @@ O Microsoft 365 supera o Google Workspace por entregar não apenas colaboração
 
 ### ✅ Conclusão Executiva
 
-* **O Google Workspace é colaborativo.
-* **O Microsoft 365 é uma plataforma completa de gestão pública.
+* **O Google Workspace é colaborativo.**
+* **O Microsoft 365 é uma plataforma completa de gestão pública.**
 
 ### 👉 Para gestores públicos, o Microsoft 365 entrega:
 
