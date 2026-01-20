@@ -56,92 +56,63 @@ O Microsoft 365 supera o Google Workspace por entregar não apenas colaboração
 
 ---------------------------------------------------------------------------
 
-4. Visão de Longo Prazo e Redução de Custos Ocultos
+### 4. Visão de Longo Prazo e Redução de Custos Ocultos
 
-Os planos Microsoft 365 E3 e E5 já incluem:
+ * Os planos Microsoft 365 E3 e E5 já incluem:
+   * Segurança avançada;
+   * Governança, auditoria e conformidade;
+   * Gestão de identidades e acessos.
 
-Segurança avançada;
+ * Evita a necessidade de:
+   * Contratar múltiplas soluções de terceiros (segurança, DLP, auditoria);
+   * Gerenciar ambientes fragmentados e contratos paralelos.
+ * Resultado para a gestão:
+   * **Menor custo total de propriedade (TCO)** e maior previsibilidade orçamentária.
 
-Governança, auditoria e conformidade;
+### 5. Soberania de Dados e Conformidade (LGPD)
+ 
+ * O Microsoft 365 permite:
+   * Maior controle sobre localização e tratamento dos dados;
+   * Ferramentas nativas para auditoria, retenção legal e governança.
+ * Atende melhor às exigências de:
+   * LGPD;
+   * Órgãos de controle, tribunais de contas e auditorias.
+ * Resultado para a gestão:
+   * Redução de riscos legais e institucionais.
 
-Gestão de identidades e acessos.
+-------------------------------------------------------------
 
-Evita a necessidade de:
+### 6. Acessibilidade e Inclusão
+ * A Microsoft é referência mundial em acessibilidade digital, oferecendo:
+   * Leitura avançada;
+   * Ditado por voz;
+   * Ferramentas para servidores com deficiência visual, motora ou cognitiva.
+ * Resultado para a gestão:
+   * Inclusão, conformidade legal e valorização do servidor público.
 
-Contratar múltiplas soluções de terceiros (segurança, DLP, auditoria);
+### 7. Padronização e Interoperabilidade Institucional
 
-Gerenciar ambientes fragmentados e contratos paralelos.
+ * O padrão .docx e .xlsx é amplamente utilizado por:
+   * Tribunais;
+   * Ministérios;
+   * Órgãos de controle e parceiros externos.
+ * O uso do Microsoft 365:
+   * Evita erros de conversão;
+   * Preserva formatação, fórmulas e macros;
+   * Reduz retrabalho e riscos em documentos oficiais.
+ * Resultado para a gestão:
+   * Comunicação institucional mais segura e eficiente.
 
-Resultado para a gestão:
+-------------------------------------------------------------------
 
-Menor custo total de propriedade (TCO) e maior previsibilidade orçamentária.
+### ✅ Conclusão Executiva
 
-5. Soberania de Dados e Conformidade (LGPD)
+* **O Google Workspace é colaborativo.
+* **O Microsoft 365 é uma plataforma completa de gestão pública.
 
-O Microsoft 365 permite:
+### 👉 Para gestores públicos, o Microsoft 365 entrega:
 
-Maior controle sobre localização e tratamento dos dados;
-
-Ferramentas nativas para auditoria, retenção legal e governança.
-
-Atende melhor às exigências de:
-
-LGPD;
-
-Órgãos de controle, tribunais de contas e auditorias.
-
-Resultado para a gestão:
-
-Redução de riscos legais e institucionais.
-
-6. Acessibilidade e Inclusão
-
-A Microsoft é referência mundial em acessibilidade digital, oferecendo:
-
-Leitura avançada;
-
-Ditado por voz;
-
-Ferramentas para servidores com deficiência visual, motora ou cognitiva.
-
-Resultado para a gestão:
-
-Inclusão, conformidade legal e valorização do servidor público.
-
-7. Padronização e Interoperabilidade Institucional
-
-O padrão .docx e .xlsx é amplamente utilizado por:
-
-Tribunais;
-
-Ministérios;
-
-Órgãos de controle e parceiros externos.
-
-O uso do Microsoft 365:
-
-Evita erros de conversão;
-
-Preserva formatação, fórmulas e macros;
-
-Reduz retrabalho e riscos em documentos oficiais.
-
-Resultado para a gestão:
-
-Comunicação institucional mais segura e eficiente.
-
-✅ Conclusão Executiva
-
-O Google Workspace é colaborativo.
-
-O Microsoft 365 é uma plataforma completa de gestão pública.
-
-👉 Para gestores públicos, o Microsoft 365 entrega:
-
-Mais controle;
-
-Mais eficiência;
-
-Menos riscos;
-
-Melhor governança no longo prazo.
+* Mais controle;
+* Mais eficiência;
+* Menos riscos;
+* Melhor governança no longo prazo.
